@@ -1,0 +1,178 @@
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Cliente.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Cliente.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Omar\Documents\Question mark\Universidad\sexto cuatri\Base de datos\Proyecto final\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Cliente.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Clientes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Clientes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGarden\SmartGarden\SmartGarden\SmartGardenP\obj\Debug\SmartGardenP.Design.SignUp.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Clientes.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Design.SignUp.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\angel\Documents\PUCMM\SmartGarden\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.exe.config
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.exe
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\bin\Debug\SmartGardenP.pdb
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.AsignacionT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.CargoPrincipal.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Clientes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Floral.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Form1.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Glosario.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.inicio.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Design.SignUp.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Suministros.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.LOGIN.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Ordenes.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.OrdenesPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Empleados.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Properties.Resources.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.RegistrarPaisa.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.RegistrarT.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.Unidades.resources
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.GenerateResource.cache
+C:\Users\Nicolas\Documents\PUCMM\6to cuatrimestre\Base de datos\proyecto\SmartGardenPFINAL\SmartGardenP\SmartGardenP\obj\Debug\SmartGardenP.csproj.CoreCompileInputs.cache
