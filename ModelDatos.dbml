@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SmartGarden" Class="ModelDatosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MSI;Initial Catalog=SmartGarden;Integrated Security=True" SettingsObjectName="SmartGardenP.Properties.Settings" SettingsPropertyName="SmartGardenConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Empleado" Member="Empleado">
+    <Type Name="Empleado">
+      <Column Name="EmpID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CargoID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha_de_Contrato" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Salario" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Cargo" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="Cedula" Type="System.String" DbType="VarChar(11)" CanBeNull="true" />
+      <Column Name="Correo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="FechaNac" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Apellido" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Genero" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Association Name="Empleado_ArregloFloral_Cliente" Member="ArregloFloral_Cliente" ThisKey="EmpID" OtherKey="EmpID" Type="ArregloFloral_Cliente" />
+      <Association Name="Empleado_Paisajismo_Empleado" Member="Paisajismo_Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Paisajismo_Empleado" />
+      <Association Name="Empleado_Suministro" Member="Suministro" ThisKey="EmpID" OtherKey="EmpID" Type="Suministro" />
+      <Association Name="Empleado_Tarea_Empleado" Member="Tarea_Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Tarea_Empleado" />
+      <Association Name="Cargo_Empleado" Member="Cargo1" ThisKey="CargoID" OtherKey="CargoID" Type="Cargo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cargo" Member="Cargo">
+    <Type Name="Cargo">
+      <Column Name="CargoID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Cargo" Member="Cargo1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Descripcion" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Beneficios" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Cargo_Empleado" Member="Empleado" ThisKey="CargoID" OtherKey="CargoID" Type="Empleado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ArregloFloral" Member="ArregloFloral">
+    <Type Name="ArregloFloral">
+      <Column Name="ArregloID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Precio_de_Complejidad" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="ArregloFloral_ArregloFloral_Cliente" Member="ArregloFloral_Cliente" ThisKey="ArregloID" OtherKey="ArregloID" Type="ArregloFloral_Cliente" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ArregloFloral_Cliente" Member="ArregloFloral_Cliente">
+    <Type Name="ArregloFloral_Cliente">
+      <Column Name="Arreglo_clienteID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmpID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ClienteID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ArregloID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Fecha_Inicial" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DeadLine" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ArregloFloral_ArregloFloral_Cliente" Member="ArregloFloral" ThisKey="ArregloID" OtherKey="ArregloID" Type="ArregloFloral" IsForeignKey="true" />
+      <Association Name="Empleado_ArregloFloral_Cliente" Member="Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Empleado" IsForeignKey="true" />
+      <Association Name="Cliente_ArregloFloral_Cliente" Member="Cliente" ThisKey="ClienteID" OtherKey="ClienteID" Type="Cliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cliente" Member="Cliente">
+    <Type Name="Cliente">
+      <Column Name="ClienteID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(25)" CanBeNull="true" />
+      <Column Name="Correo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="Cliente_ArregloFloral_Cliente" Member="ArregloFloral_Cliente" ThisKey="ClienteID" OtherKey="ClienteID" Type="ArregloFloral_Cliente" />
+      <Association Name="Cliente_Paisajismo" Member="Paisajismo" ThisKey="ClienteID" OtherKey="ClienteID" Type="Paisajismo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Paisajismo" Member="Paisajismo">
+    <Type Name="Paisajismo">
+      <Column Name="PaisaID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ClienteID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Descripcion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Precio_Cliente" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Presupuesto" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Fecha_Inicial" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DeadLine" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="Cliente_Paisajismo" Member="Cliente" ThisKey="ClienteID" OtherKey="ClienteID" Type="Cliente" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Paisajismo_Empleado" Member="Paisajismo_Empleado">
+    <Type Name="Paisajismo_Empleado">
+      <Column Name="PaisaID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmpID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Localizacion" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Empleado_Paisajismo_Empleado" Member="Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Empleado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Suministro" Member="Suministro">
+    <Type Name="Suministro">
+      <Column Name="SumID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TipoID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EmpID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Presupuesto" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Fecha_de_Salida" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Empleado_Suministro" Member="Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Empleado" IsForeignKey="true" />
+      <Association Name="Tipo_Suministro" Member="Tipo" ThisKey="TipoID" OtherKey="TipoID" Type="Tipo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tarea" Member="Tarea">
+    <Type Name="Tarea">
+      <Column Name="TareaID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Tarea_Tarea_Empleado" Member="Tarea_Empleado" ThisKey="TareaID" OtherKey="TareaID" Type="Tarea_Empleado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tarea_Empleado" Member="Tarea_Empleado">
+    <Type Name="Tarea_Empleado">
+      <Column Name="Tarea_empID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="EmpID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TareaID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Horario" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="Localizacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Empleado_Tarea_Empleado" Member="Empleado" ThisKey="EmpID" OtherKey="EmpID" Type="Empleado" IsForeignKey="true" />
+      <Association Name="Tarea_Tarea_Empleado" Member="Tarea" ThisKey="TareaID" OtherKey="TareaID" Type="Tarea" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Tipo" Member="Tipo">
+    <Type Name="Tipo">
+      <Column Name="TipoID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Informaciones" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Tipo_Suministro" Member="Suministro" ThisKey="TipoID" OtherKey="TipoID" Type="Suministro" />
+      <Association Name="Tipo_Unidad" Member="Unidad" ThisKey="TipoID" OtherKey="TipoID" Type="Unidad" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Unidad" Member="Unidad">
+    <Type Name="Unidad">
+      <Column Name="UnidadID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TipoID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="FeExpirado" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Condicion" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Precio_Unidad" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="Tipo_Unidad" Member="Tipo" ThisKey="TipoID" OtherKey="TipoID" Type="Tipo" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="UsuarioID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="usuario" Member="usuario1" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="contrase" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.ValidarUsuario" Method="ValidarUsuario">
+    <Parameter Name="usuario" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="contrase" Type="System.String" DbType="VarChar(20)" />
+    <ElementType Name="ValidarUsuarioResult">
+      <Column Name="UsuarioID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="usuario" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="contrase" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>
