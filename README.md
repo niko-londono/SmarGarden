@@ -1,2 +1,2 @@
-# SmarGarden
+# SmartGarden
 Aplicación de escritorio 
